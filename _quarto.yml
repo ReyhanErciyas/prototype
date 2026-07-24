@@ -6,7 +6,12 @@ project:
     - project-log.qmd
     - wikidata.qmd
     - wikidata-item.ipynb
+    - timeline.qmd
 
+author:
+  - orcid: 0009-0006-5498-0771
+  - name: Reyhan Erciyas
+  - affiliation: HsH
 website:
   title: "BIM Prototype 02"
   navbar:
@@ -19,6 +24,8 @@ website:
         text: Wikidata
       - href: wikidata-item.ipynb
         text: Item Profile
+      - href: timeline.qmd
+        text: "Austellungen Timeline"  
 
 format:
   html:
